@@ -1,0 +1,8 @@
+name: "my-resume"
+output_dir: '.'
+navbar:
+  title: "My Resume"
+  left:
+  - text: "Home"
+    href: index.html
+
