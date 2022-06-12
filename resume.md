@@ -1,7 +1,7 @@
 Patrick Green’s Resume
 ================
 Patrick Green
-2022-06-11
+2022-06-12
 
 # Aside
 
@@ -11,7 +11,7 @@ resume](https://patrickgreen93.github.io/resume.pdf)
 ## Contact
 
 -   <i class='fa fa-envelope'></i>
-    [patrickagreen93@gmail…](patrickagreen93@gmail.com)
+    [patrickagreen93@gmail…](mailto:patrickagreen93@gmail.com)
 -   <i class='fa fa-linkedin'></i>
     [patrick-a-green](https://www.linkedin.com/in/patrick-a-green/)
 -   <i class='fa fa-github'></i>
@@ -69,7 +69,7 @@ and [datadrivencv](https://github.com/nstrayer/datadrivencv)
 The source code is available at
 [github.com/PatrickGreen93/Patr…](https://github.com/PatrickGreen93/PatrickGreen93.github.io).
 
-Last updated on 2022-06-11.
+Last updated on 2022-06-12.
 
 # Main
 
