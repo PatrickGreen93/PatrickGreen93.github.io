@@ -1,7 +1,7 @@
 Patrick Green’s Resume
 ================
 Patrick Green
-2022-06-12
+2022-06-21
 
 # Aside
 
@@ -69,27 +69,27 @@ and [datadrivencv](https://github.com/nstrayer/datadrivencv)
 The source code is available at
 [github.com/PatrickGreen93/Patr…](https://github.com/PatrickGreen93/PatrickGreen93.github.io).
 
-Last updated on 2022-06-12.
+Last updated on 2022-06-21.
 
 # Main
 
 ## Patrick Green
 
-I currently am in the final year of pursuing my doctorate in I-O
-Psychology at Louisiana Tech University and plan to have my dissertation
-completed by the end of 2023, if not sooner. The focus of my academics
-outside of coursework has been on Psychometrics (e.g., IRT, CAT),
-Development of Assessments, and Selection. For example, developing a
-simplistic Automatic Item Generation numeric sequence test in PHP or my
-dissertation which is on a novel method of scoring situational judgment
-tests used in selecting project managers.
+I am currently a doctoral candidate at Louisiana Tech University,
+pursuing a doctorate in Industrial / Organizational Psychology. I plan
+to have my dissertation completed by the end of 2023, if not sooner.
+While working on my Ph.D., I am also interested in pursuing industry
+experience, preferrably in an internship position that provides a
+variety of different experiences contained within the field of IO.
 
-My interests however, also include talent management and acquisition,
-with an emphasis on methods to improve retention. Looking forward, I am
-also interested in pursuing experiences that will provide an opportunity
-to gain industry experience while also providing a flexible environment
-that allows for me to finish up my dissertation. Feel free to reach out
-to me with any questions you may have.
+The focus of my academics outside of coursework has been on
+psychometrics (e.g., IRT, CAT) and developing assessments for selection.
+For example, developing a simplistic Automatic Item Generation numeric
+sequence test and my dissertation, which pertains to a situational
+judgement test for selecting project managers. My interests however, do
+expand past selection into the broader field of talent management,
+especially methods of retaining talent. Feel free to reach out to me
+with any questions you may have.
 
 ## Education
 
@@ -101,9 +101,9 @@ Ruston, LA
 
 Current - 2019
 
--   Focused on selection, retention, and psychometrics.
--   Dissertation on situational judgment test for selecting project
-    managers.
+-   Focused on developing assessments and psychometrics.
+-   Dissertation on methodology for scoring a rank-order situational
+    judgement test.
 
 ### B.A., Psychological Sciences
 
@@ -123,13 +123,13 @@ Ruston, LA
 
 Current - 2021
 
--   Projects include: State-wide k-12 teacher retention initiative and
+-   Projects included: State-wide k-12 teacher retention initiative and
     retention initiative for disadvantaged sophomore engineering
     students.
 -   Onboard new project managers, provide advice as needed, ensure
-    deadlines are met, provide task-oriented feedback.
--   Working with a large dataset (\~18,000+) and developing a dashboard
-    to disseminate results.
+    deadlines are met, and provide task-oriented feedback.
+-   Working with a large dataset (\~18,000+) in R and developing a
+    dashboard to disseminate results in Shiny.
 
 ### Project Manager
 
@@ -139,11 +139,12 @@ Ruston, LA
 
 2021 - 2020
 
--   Projects included: University-Wide Climate Survey, COVID-19 Response
-    Survey and various grant evaluations.
+-   Projects included: University-wide climate survey, COVID-19 response
+    survey, and various grant evaluations.
 -   Facilitating discussions with clients, including in the process of
     survey development (i.e., ensure items are informative and
-    actionable), scope-writing, reporting results, etc.
+    actionable), scope-writing, and reporting results to key
+    stakeholders.
 -   Leading associates to produce deliverables, ensuring quality and
     timeliness.
 
@@ -155,12 +156,12 @@ Ruston, LA
 
 2020 - 2019
 
--   Projects included: Job Analysis and development of selection
-    measures for a Louisiana Police Department, University-Wide Climate
-    Survey, Grant evaluations, etc.
--   Tasks for these projects included data analysis, data visualization,
-    report-writing, meeting with clients, collaboration through
-    interdependent sub-tasks, etc.
+-   Projects included: Job analysis and development of selection
+    measures for a Louisiana police department, university-wide climate
+    survey, and grant evaluations.
+-   Tasks for these projects included: Data analysis, data
+    visualization, report-writing, meeting with clients, and
+    collaboration through interdependent sub-tasks.
 
 ### Assessor
 
@@ -170,7 +171,7 @@ Birmingham, AL
 
 2019 - 2019
 
--   Assess candidate qualifications for various positions in a unique
+-   Assess candidate qualifications for various positions using a unique
     method developed to reduce adverse impact.
 
 ## Research Experience
@@ -185,7 +186,7 @@ Current - 2019
 
 -   Explore potential applications of automatic item generation.
 -   Development of a basic number sequence AIG test for cognitive
-    ability.
+    ability using php.
 
 ### Undergraduate Research Assistant
 
@@ -219,7 +220,7 @@ Ruston, LA
 Current - 2019
 
 -   Leading the lab class for Honors Intro. to Psychology courses.
-    Includes developing activities for lab days and supervising them.
+    Included developing activities for lab days and supervising them.
 -   Grading assignments and exams for various courses (e.g., IO
     Psychology, Intro. to Psychology, Statistics) and providing
     feedback.
@@ -244,8 +245,8 @@ San Marcos, CA
 
 2018 - 2018
 
--   Setting up and supervising lab activities, assisting students with
-    questions about task or instruments as needed.
+-   Setting up and supervising lab activities and assisting students
+    with questions about task or instruments as needed.
 -   Giving lectures and leading review sessions on course content.
 -   Grading papers and exams as well as giving feedback to improve
     future performance.
