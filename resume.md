@@ -79,14 +79,14 @@ I am currently a doctoral candidate at Louisiana Tech University,
 pursuing a doctorate in Industrial / Organizational Psychology. I plan
 to have my dissertation completed by the end of 2023, if not sooner.
 While working on my Ph.D., I am also interested in pursuing industry
-experience, preferrably in an internship position that provides a
-variety of different experiences contained within the field of IO.
+experience, preferably in an internship position that provides a variety
+of different experiences contained within the field of IO.
 
 The focus of my academics outside of coursework has been on
 psychometrics (e.g., IRT, CAT) and developing assessments for selection.
 For example, developing a simplistic Automatic Item Generation numeric
 sequence test and my dissertation, which pertains to a situational
-judgement test for selecting project managers. My interests however, do
+judgment test for selecting project managers. My interests however, do
 expand past selection into the broader field of talent management,
 especially methods of retaining talent. Feel free to reach out to me
 with any questions you may have.
@@ -103,7 +103,7 @@ Current - 2019
 
 -   Focused on developing assessments and psychometrics.
 -   Dissertation on methodology for scoring a rank-order situational
-    judgement test.
+    judgment test.
 
 ### B.A., Psychological Sciences
 
