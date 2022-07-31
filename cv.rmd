@@ -81,12 +81,12 @@ Contact {#contact}
 CV %>% print_contact_info()
 ```
 
-Language Skills {#skills}
---------------------------------------------------------------------------------
+<!-- Language Skills {#skills} -->
+<!-- -------------------------------------------------------------------------------- -->
 
-```{r}
-CV %>% print_skill_bars()
-```
+<!-- ```{r} -->
+<!-- CV %>% print_skill_bars() -->
+<!-- ``` -->
 
 
 Disclaimer {#disclaimer}

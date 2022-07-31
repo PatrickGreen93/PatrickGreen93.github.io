@@ -1,7 +1,7 @@
 Patrick Green’s Resume
 ================
 Patrick Green
-2022-06-21
+2022-07-31
 
 # Aside
 
@@ -19,47 +19,11 @@ resume](https://patrickgreen93.github.io/resume.pdf)
 -   <i class='fa fa-globe'></i>
     [patrickagreen.com](https://patrickagreen.com)
 
-## Language Skills
-
-<div class="skill-bar" style="background:linear-gradient(to right,
-                                      #969696 100%,
-                                      #d9d9d9 100% 100%)">
-
-R
-
-</div>
-
-<div class="skill-bar" style="background:linear-gradient(to right,
-                                      #969696 60%,
-                                      #d9d9d9 60% 100%)">
-
-Python
-
-</div>
-
-<div class="skill-bar" style="background:linear-gradient(to right,
-                                      #969696 40%,
-                                      #d9d9d9 40% 100%)">
-
-PHP
-
-</div>
-
-<div class="skill-bar" style="background:linear-gradient(to right,
-                                      #969696 40%,
-                                      #d9d9d9 40% 100%)">
-
-SQL
-
-</div>
-
-<div class="skill-bar" style="background:linear-gradient(to right,
-                                      #969696 70%,
-                                      #d9d9d9 70% 100%)">
-
-HTML/CSS
-
-</div>
+<!-- Language Skills {#skills} -->
+<!-- -------------------------------------------------------------------------------- -->
+<!-- ```{r} -->
+<!-- CV %>% print_skill_bars() -->
+<!-- ``` -->
 
 ## Disclaimer
 
@@ -69,7 +33,7 @@ and [datadrivencv](https://github.com/nstrayer/datadrivencv)
 The source code is available at
 [github.com/PatrickGreen93/Patr…](https://github.com/PatrickGreen93/PatrickGreen93.github.io).
 
-Last updated on 2022-06-21.
+Last updated on 2022-07-31.
 
 # Main
 
@@ -78,16 +42,15 @@ Last updated on 2022-06-21.
 I am currently a doctoral candidate at Louisiana Tech University,
 pursuing a doctorate in Industrial / Organizational Psychology. I plan
 to have my dissertation completed by the end of 2023, if not sooner.
-While working on my Ph.D., I am also interested in pursuing industry
-experience, preferably in an internship position that provides a variety
-of different experiences contained within the field of IO.
+While finishing my Ph.D., I also am interested in pursuing industry
+experience, preferably within the areas of People Analytics, Talent
+Management, and/or Assessment Development (for selection).
 
 The focus of my academics outside of coursework has been on
 psychometrics (e.g., IRT, CAT) and developing assessments for selection.
 For example, developing a simplistic Automatic Item Generation numeric
 sequence test and my dissertation, which pertains to a situational
-judgment test for selecting project managers. My interests however, do
-expand past selection into the broader field of talent management,
+judgment test. My interests however, also include talent management,
 especially methods of retaining talent. Feel free to reach out to me
 with any questions you may have.
 
@@ -115,7 +78,7 @@ San Marcos, CA
 
 ## Industry Experience
 
-### Project Oversight
+### Consultant, Project Oversight
 
 Applied Research for Organizational Solutions (AROS)
 
@@ -126,12 +89,12 @@ Current - 2021
 -   Projects included: State-wide k-12 teacher retention initiative and
     retention initiative for disadvantaged sophomore engineering
     students.
--   Onboard new project managers, provide advice as needed, ensure
+-   Onboard new project leads, provide advice as needed, ensure
     deadlines are met, and provide task-oriented feedback.
 -   Working with a large dataset (\~18,000+) in R and developing a
     dashboard to disseminate results in Shiny.
 
-### Project Manager
+### Consultant, Project Lead
 
 AROS
 
@@ -148,7 +111,7 @@ Ruston, LA
 -   Leading associates to produce deliverables, ensuring quality and
     timeliness.
 
-### Project Associate
+### Consultant, Project Associate
 
 AROS
 
@@ -255,7 +218,7 @@ San Marcos, CA
 
 ### Languages
 
-R, SQL, PHP, Python, HTML, CSS
+R, SQL, and Python
 
 N/A
 
