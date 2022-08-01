@@ -78,53 +78,44 @@ San Marcos, CA
 
 ## Industry Experience
 
-### Consultant, Project Oversight
-
-Applied Research for Organizational Solutions (AROS)
-
-Ruston, LA
-
-Current - 2021
-
--   Projects included: State-wide k-12 teacher retention initiative and
-    retention initiative for disadvantaged sophomore engineering
-    students.
--   Onboard new project leads, provide advice as needed, ensure
-    deadlines are met, and provide task-oriented feedback.
--   Working with a large dataset (\~18,000+) in R and developing a
-    dashboard to disseminate results in Shiny.
-
 ### Consultant, Project Lead
 
-AROS
+AROS Consulting
 
 Ruston, LA
 
-2021 - 2020
+Current - 2020
 
--   Projects included: University-wide climate survey, COVID-19 response
-    survey, and various grant evaluations.
--   Facilitating discussions with clients, including in the process of
-    survey development (i.e., ensure items are informative and
-    actionable), scope-writing, and reporting results to key
-    stakeholders.
--   Leading associates to produce deliverables, ensuring quality and
-    timeliness.
+-   Worked on projects related to IO Psychology as a Consultant over a
+    broad range of topics, including: job analyses, climate surveys,
+    developing and assessing interventions for retention, burnout and
+    engagement.
+-   Led projects which entailed developing proposals, meeting with
+    clients, outlining scopes of work, planning project objectives and
+    timelines, delegating tasks, producing deliverables, and following
+    up with clients as needed.
+-   Use of statistics, primarily in R, Excel and SPSS, both in large
+    datasets using standard statistical analyses (e.g., regression) and
+    adopting non-parametric methods (e.g., Kruskal-Wallis) to provide
+    data-driven recommendations.
+-   Transformed results into easily understood narratives by finding
+    relevant trends in the data and capitalizing on data visualization
+    techniques so that results and recommendations could be disseminated
+    to a non-statistical audience.
+-   Projects included: COVID-19 University-response survey and
+    state-wide k-12 teacher retention initiative.
 
 ### Consultant, Project Associate
 
-AROS
+AROS Consulting
 
 Ruston, LA
 
 2020 - 2019
 
 -   Projects included: Job analysis and development of selection
-    measures for a Louisiana police department, university-wide climate
-    survey, and grant evaluations.
--   Tasks for these projects included: Data analysis, data
-    visualization, report-writing, meeting with clients, and
-    collaboration through interdependent sub-tasks.
+    measures for a Louisiana police department and University-wide
+    climate survey.
 
 ### Assessor
 
